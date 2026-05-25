@@ -242,6 +242,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0013-roman-to-integer](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0048-rotate-image/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0172-factorial-trailing-zeroes](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0396-rotate-function](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0788-rotated-digits/) | Medium |
