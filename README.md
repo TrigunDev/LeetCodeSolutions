@@ -11,6 +11,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0049-group-anagrams/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0134-gas-station](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0134-gas-station/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -86,6 +87,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0048-rotate-image/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0289-game-of-life](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0289-game-of-life/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0885-spiral-matrix-iii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0885-spiral-matrix-iii/) | Medium |
@@ -159,6 +161,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0338-counting-bits](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0338-counting-bits/) | Easy |
