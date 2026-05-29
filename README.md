@@ -61,6 +61,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3446-sort-matrix-by-diagonals](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -267,6 +268,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [2396-strictly-palindromic-number](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Binary Search
