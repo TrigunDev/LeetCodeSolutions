@@ -198,6 +198,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0049-group-anagrams/) | Medium |
+| [0133-clone-graph](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0133-clone-graph/) | Medium |
 | [0139-word-break](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0139-word-break/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0290-word-pattern](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0290-word-pattern/) | Easy |
@@ -390,6 +391,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0133-clone-graph](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0133-clone-graph/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -405,6 +407,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0112-path-sum/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0133-clone-graph](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0133-clone-graph/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -415,6 +418,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0133-clone-graph](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0133-clone-graph/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
