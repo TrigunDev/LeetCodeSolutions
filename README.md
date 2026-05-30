@@ -14,6 +14,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0063-unique-paths-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0134-gas-station](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0134-gas-station/) | Medium |
+| [0139-word-break](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0139-word-break/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -120,6 +121,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0049-group-anagrams](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0049-group-anagrams/) | Medium |
 | [0071-simplify-path](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0071-simplify-path/) | Medium |
 | [0097-interleaving-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0097-interleaving-string/) | Medium |
+| [0139-word-break](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0139-word-break/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0290-word-pattern](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0383-ransom-note/) | Easy |
@@ -167,6 +169,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0063-unique-paths-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0097-interleaving-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0097-interleaving-string/) | Medium |
+| [0139-word-break](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0139-word-break/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0338-counting-bits](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0338-counting-bits/) | Easy |
 | [0396-rotate-function](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0396-rotate-function/) | Medium |
@@ -195,6 +198,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0049-group-anagrams/) | Medium |
+| [0139-word-break](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0139-word-break/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0290-word-pattern](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0290-word-pattern/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -443,6 +447,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0139-word-break/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -474,6 +479,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0139-word-break/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
