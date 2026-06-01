@@ -19,6 +19,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0221-maximal-square](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0221-maximal-square/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0274-h-index](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0274-h-index/) | Medium |
 | [0289-game-of-life](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0289-game-of-life/) | Medium |
@@ -95,6 +96,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0063-unique-paths-ii/) | Medium |
+| [0221-maximal-square](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0221-maximal-square/) | Medium |
 | [0289-game-of-life](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0289-game-of-life/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0885-spiral-matrix-iii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0885-spiral-matrix-iii/) | Medium |
@@ -176,6 +178,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0072-edit-distance](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0072-edit-distance/) | Medium |
 | [0097-interleaving-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0097-interleaving-string/) | Medium |
 | [0139-word-break](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0139-word-break/) | Medium |
+| [0221-maximal-square](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0221-maximal-square/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0338-counting-bits](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0338-counting-bits/) | Easy |
 | [0396-rotate-function](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0396-rotate-function/) | Medium |
