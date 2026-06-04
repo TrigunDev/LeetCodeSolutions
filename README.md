@@ -9,6 +9,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0049-group-anagrams/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0063-unique-paths-ii/) | Medium |
@@ -218,6 +219,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0041-first-missing-positive](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0049-group-anagrams/) | Medium |
 | [0133-clone-graph](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0133-clone-graph/) | Medium |
 | [0139-word-break](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0139-word-break/) | Medium |
