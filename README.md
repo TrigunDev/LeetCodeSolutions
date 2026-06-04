@@ -206,6 +206,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3660-jump-game-ix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3660-jump-game-ix/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -297,6 +298,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Binary Search
@@ -416,6 +418,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
