@@ -30,6 +30,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0396-rotate-function](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0396-rotate-function/) | Medium |
+| [0419-battleships-in-a-board](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0502-ipo](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0502-ipo/) | Hard |
 | [0654-maximum-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -107,6 +108,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0063-unique-paths-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0221-maximal-square](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0221-maximal-square/) | Medium |
 | [0289-game-of-life](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0289-game-of-life/) | Medium |
+| [0419-battleships-in-a-board](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0885-spiral-matrix-iii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0885-spiral-matrix-iii/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
@@ -436,6 +438,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0211-design-add-and-search-words-data-structure](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0386-lexicographical-numbers](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0386-lexicographical-numbers/) | Medium |
+| [0419-battleships-in-a-board](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
