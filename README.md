@@ -147,6 +147,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0290-word-pattern](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0383-ransom-note/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0791-custom-sort-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0791-custom-sort-string/) | Medium |
 | [0796-rotate-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0796-rotate-string/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -233,6 +234,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0290-word-pattern](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0290-word-pattern/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0383-ransom-note/) | Easy |
+| [0791-custom-sort-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0791-custom-sort-string/) | Medium |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1072-flip-columns-for-maximum-number-of-equal-rows/) | Medium |
 | [1345-jump-game-iv](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -339,6 +341,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0274-h-index](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0274-h-index/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0502-ipo](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0502-ipo/) | Hard |
+| [0791-custom-sort-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0791-custom-sort-string/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1340-jump-game-v](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1340-jump-game-v/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
