@@ -56,6 +56,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -238,6 +239,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1072-flip-columns-for-maximum-number-of-equal-rows/) | Medium |
 | [1345-jump-game-iv](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [2615-sum-of-distances](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -407,6 +409,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -428,6 +431,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
