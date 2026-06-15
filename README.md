@@ -302,6 +302,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [1472-design-browser-history](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1472-design-browser-history/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -387,6 +388,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0557-reverse-words-in-a-string-iii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1861-rotating-the-box/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
