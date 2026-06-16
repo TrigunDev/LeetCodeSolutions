@@ -368,6 +368,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0502-ipo](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0502-ipo/) | Hard |
 | [0791-custom-sort-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0791-custom-sort-string/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1340-jump-game-v](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1340-jump-game-v/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -436,6 +437,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -460,6 +462,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -488,6 +491,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -526,6 +530,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0173-binary-search-tree-iterator](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
