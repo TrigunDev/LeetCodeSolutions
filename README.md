@@ -49,6 +49,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -104,6 +105,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0502-ipo](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0502-ipo/) | Hard |
 | [0861-score-after-flipping-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2126-destroying-asteroids/) | Medium |
@@ -130,6 +132,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1861-rotating-the-box](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1861-rotating-the-box/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
