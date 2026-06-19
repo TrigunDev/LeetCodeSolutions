@@ -442,6 +442,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0654-maximum-binary-tree/) | Medium |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1302-deepest-leaves-sum/) | Medium |
@@ -467,6 +468,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0654-maximum-binary-tree/) | Medium |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1302-deepest-leaves-sum/) | Medium |
@@ -496,6 +498,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0637-average-of-levels-in-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1302-deepest-leaves-sum/) | Medium |
