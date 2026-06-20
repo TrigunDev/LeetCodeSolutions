@@ -53,6 +53,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1840-maximum-building-height](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1840-maximum-building-height/) | Hard |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1861-rotating-the-box/) | Medium |
@@ -338,6 +339,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0396-rotate-function](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0788-rotated-digits/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1840-maximum-building-height](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1840-maximum-building-height/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2396-strictly-palindromic-number/) | Medium |
@@ -380,6 +382,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1329-sort-the-matrix-diagonally](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1340-jump-game-v](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1340-jump-game-v/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1840-maximum-building-height](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1840-maximum-building-height/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
