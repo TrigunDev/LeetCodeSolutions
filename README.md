@@ -538,6 +538,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0133-clone-graph/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
