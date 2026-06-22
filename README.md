@@ -170,6 +170,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0791-custom-sort-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0791-custom-sort-string/) | Medium |
 | [0796-rotate-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0796-rotate-string/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -265,6 +266,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0383-ransom-note](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0383-ransom-note/) | Easy |
 | [0791-custom-sort-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0791-custom-sort-string/) | Medium |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1072-flip-columns-for-maximum-number-of-equal-rows/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1345-jump-game-iv](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -541,6 +543,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | ------- | ------- |
 | [0274-h-index](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0274-h-index/) | Medium |
 | [0383-ransom-note](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0383-ransom-note/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2833-furthest-point-from-origin/) | Easy |
