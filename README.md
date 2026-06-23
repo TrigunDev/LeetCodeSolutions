@@ -62,6 +62,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1980-find-unique-binary-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2079-watering-plants](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2079-watering-plants/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -204,6 +205,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1409-queries-on-a-permutation-with-key](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2079-watering-plants](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2079-watering-plants/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
