@@ -58,6 +58,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1743-restore-the-array-from-adjacent-pairs/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1861-rotating-the-box/) | Medium |
@@ -118,6 +119,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -411,6 +413,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
