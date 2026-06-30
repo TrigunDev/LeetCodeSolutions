@@ -182,6 +182,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0796-rotate-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0796-rotate-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -265,6 +266,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Hash Table
@@ -285,6 +287,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1189-maximum-number-of-balloons](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1345-jump-game-iv](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1345-jump-game-iv/) | Hard |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1743-restore-the-array-from-adjacent-pairs/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
