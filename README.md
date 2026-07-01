@@ -83,6 +83,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [2751-robot-collisions](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2751-robot-collisions/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -153,6 +154,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1861-rotating-the-box](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1861-rotating-the-box/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -399,6 +401,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -409,6 +412,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0023-merge-k-sorted-lists](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0502-ipo](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0502-ipo/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Sorting
@@ -577,6 +581,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1302-deepest-leaves-sum](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1345-jump-game-iv](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1345-jump-game-iv/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -619,6 +624,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | ------- | ------- |
 | [0695-max-area-of-island](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0695-max-area-of-island/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
