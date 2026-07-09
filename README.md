@@ -98,6 +98,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3446-sort-matrix-by-diagonals](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -314,6 +315,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [3120-count-the-number-of-special-characters-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -416,6 +418,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -609,6 +612,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -648,6 +652,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
