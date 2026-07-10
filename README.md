@@ -99,6 +99,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [3446-sort-matrix-by-diagonals](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -133,6 +134,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [2126-destroying-asteroids](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -269,6 +271,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3660-jump-game-ix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3660-jump-game-ix/) | Medium |
@@ -375,6 +378,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1009-complement-of-base-10-integer](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
@@ -419,6 +423,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -457,6 +462,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [2784-check-if-array-is-good](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3446-sort-matrix-by-diagonals](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -472,6 +478,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -613,6 +620,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
