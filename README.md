@@ -46,6 +46,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1310-xor-queries-of-a-subarray](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1314-matrix-block-sum](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1314-matrix-block-sum/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
@@ -303,6 +304,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1110-delete-nodes-and-return-forest](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1743-restore-the-array-from-adjacent-pairs/) | Medium |
@@ -449,6 +451,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1288-remove-covered-intervals](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1340-jump-game-v/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
