@@ -410,6 +410,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
@@ -691,6 +692,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | ------- | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
