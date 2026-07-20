@@ -40,6 +40,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0918-maximum-sum-circular-subarray](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1072-flip-columns-for-maximum-number-of-equal-rows/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
+| [1260-shift-2d-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -157,6 +158,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0861-score-after-flipping-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0885-spiral-matrix-iii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0885-spiral-matrix-iii/) | Medium |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1072-flip-columns-for-maximum-number-of-equal-rows/) | Medium |
+| [1260-shift-2d-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1314-matrix-block-sum](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1314-matrix-block-sum/) | Medium |
@@ -233,6 +235,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0043-multiply-strings](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0043-multiply-strings/) | Medium |
 | [0289-game-of-life](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0289-game-of-life/) | Medium |
 | [0885-spiral-matrix-iii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0885-spiral-matrix-iii/) | Medium |
+| [1260-shift-2d-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
