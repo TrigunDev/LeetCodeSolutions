@@ -105,6 +105,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [3488-closest-equal-element-queries](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -398,6 +399,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1310-xor-queries-of-a-subarray](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Math
@@ -427,6 +429,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [3312-sorted-gcd-pair-queries](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -596,6 +599,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1291-sequential-digits](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1291-sequential-digits/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
