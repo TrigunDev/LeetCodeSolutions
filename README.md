@@ -225,6 +225,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -494,6 +495,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [2784-check-if-array-is-good](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3446-sort-matrix-by-diagonals](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -675,6 +677,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
