@@ -52,6 +52,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1340-jump-game-v](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1472-design-browser-history](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1472-design-browser-history/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -468,6 +469,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0023-merge-k-sorted-lists](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0502-ipo](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0502-ipo/) | Hard |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -487,6 +489,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1329-sort-the-matrix-diagonally](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1340-jump-game-v/) | Hard |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1840-maximum-building-height/) | Hard |
