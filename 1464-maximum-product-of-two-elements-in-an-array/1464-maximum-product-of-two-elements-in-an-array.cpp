@@ -13,6 +13,8 @@ public:
             }
         }
 
-        return (maxx1 - 1) * (maxx2 - 1);
+        int result = (maxx1-1) * (maxx2-1);
+
+        return result;
     }
 };
