@@ -33,6 +33,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0419-battleships-in-a-board](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0502-ipo](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0502-ipo/) | Hard |
+| [0628-maximum-product-of-three-numbers](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0695-max-area-of-island](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
@@ -415,6 +416,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0172-factorial-trailing-zeroes](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0396-rotate-function](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0396-rotate-function/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0788-rotated-digits/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1641-count-sorted-vowel-strings](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
@@ -478,6 +480,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0274-h-index](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0274-h-index/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0502-ipo](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0502-ipo/) | Hard |
+| [0628-maximum-product-of-three-numbers](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0791-custom-sort-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0791-custom-sort-string/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
