@@ -32,6 +32,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0396-rotate-function](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0396-rotate-function/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0486-predict-the-winner](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0502-ipo](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0502-ipo/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -241,6 +242,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0486-predict-the-winner](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0486-predict-the-winner/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -279,6 +281,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0300-longest-increasing-subsequence](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0338-counting-bits](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0338-counting-bits/) | Easy |
 | [0396-rotate-function](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0788-rotated-digits](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0788-rotated-digits/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -424,6 +427,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0172-factorial-trailing-zeroes](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0396-rotate-function](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0788-rotated-digits/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -808,4 +812,8 @@ This repository contains my solutions to various LeetCode problems, written in *
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3620-network-recovery-pathways](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3620-network-recovery-pathways/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
