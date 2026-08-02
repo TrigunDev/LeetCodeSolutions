@@ -38,6 +38,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0654-maximum-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0695-max-area-of-island](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
+| [0877-stone-game](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0877-stone-game/) | Medium |
 | [0885-spiral-matrix-iii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0885-spiral-matrix-iii/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1072-flip-columns-for-maximum-number-of-equal-rows/) | Medium |
@@ -284,6 +285,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0486-predict-the-winner](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0788-rotated-digits](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -430,6 +432,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0486-predict-the-winner](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0877-stone-game/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1641-count-sorted-vowel-strings](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1840-maximum-building-height](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1840-maximum-building-height/) | Hard |
@@ -816,4 +819,5 @@ This repository contains my solutions to various LeetCode problems, written in *
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
