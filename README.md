@@ -53,6 +53,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1331-rank-transform-of-an-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1345-jump-game-iv/) | Hard |
+| [1406-stone-game-iii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1472-design-browser-history](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1472-design-browser-history/) | Medium |
@@ -291,6 +292,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1301-number-of-paths-with-max-score](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1340-jump-game-v/) | Hard |
+| [1406-stone-game-iii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1641-count-sorted-vowel-strings](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1871-jump-game-vii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1871-jump-game-vii/) | Medium |
@@ -434,6 +436,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0788-rotated-digits](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0877-stone-game/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1406-stone-game-iii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1641-count-sorted-vowel-strings](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1840-maximum-building-height](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -820,4 +823,5 @@ This repository contains my solutions to various LeetCode problems, written in *
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
