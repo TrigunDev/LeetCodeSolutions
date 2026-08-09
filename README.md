@@ -43,6 +43,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0918-maximum-sum-circular-subarray](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1072-flip-columns-for-maximum-number-of-equal-rows/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
+| [1140-stone-game-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -291,6 +292,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0788-rotated-digits](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1140-stone-game-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -377,6 +379,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1140-stone-game-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1314-matrix-block-sum](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1314-matrix-block-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -440,6 +443,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0628-maximum-product-of-three-numbers](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1406-stone-game-iii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1641-count-sorted-vowel-strings](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
@@ -836,5 +840,14 @@ This repository contains my solutions to various LeetCode problems, written in *
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1406-stone-game-iii/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1140-stone-game-ii/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
