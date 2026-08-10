@@ -298,6 +298,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1340-jump-game-v/) | Hard |
 | [1406-stone-game-iii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1641-count-sorted-vowel-strings](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1871-jump-game-vii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1871-jump-game-vii/) | Medium |
@@ -446,6 +447,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1140-stone-game-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1406-stone-game-iii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1641-count-sorted-vowel-strings](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1840-maximum-building-height](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -842,12 +844,23 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0877-stone-game](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1510-stone-game-iv/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1510-stone-game-iv/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1510-stone-game-iv/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
