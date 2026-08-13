@@ -5,14 +5,11 @@ public:
         unordered_map<int, int> mpp;
 
         for(int i = 0; i < n; i++) {
-            mpp[nums[i]] = i;
-        }
-
-        for(int i = 0; i < n; i++) {
             int remaining = target - nums[i];
-            if(mpp.count(remaining) && mpp[remaining] != i) {
+            if(mpp.count(remaining)) {
                 return {i, mpp[remaining]};
             }
+            mpp[nums[i]] = i;
         }
 
         return {};
