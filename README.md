@@ -21,6 +21,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0150-evaluate-reverse-polish-notation](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0221-maximal-square](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0221-maximal-square/) | Medium |
@@ -490,6 +491,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -557,6 +559,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0061-rotate-list](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0086-partition-list/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1861-rotating-the-box/) | Medium |
