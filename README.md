@@ -9,6 +9,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0049-group-anagrams/) | Medium |
@@ -330,6 +331,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0041-first-missing-positive](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0049-group-anagrams/) | Medium |
