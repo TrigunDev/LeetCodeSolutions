@@ -1,35 +1,34 @@
 class Solution {
-private:
-    void swapIfGreater(vector<int>& nums1, vector<int>& nums2, int index1, int index2) {
-        if(nums1[index1] > nums2[index2])
-            swap(nums1[index1], nums2[index2]);
-    }
-
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-        int length = n + m;
-        int gap = (length / 2) + (length % 2);
+        vector<int> result(m+n);
+        int i = 0, j = 0;
+        int index = 0;
 
-        while(gap > 0) {
-            int left = 0;
-            int right = left + gap;
-            while(right < length) {
-                if(left < m && right >= m)
-                    swapIfGreater(nums1, nums2, left, right - m);
-                else if(left >= m)
-                    swapIfGreater(nums2, nums2, left - m, right - m);
-                else
-                    swapIfGreater(nums1, nums1, left, right);
-
-                left++;
-                right++;
+        while(i < m && j < n) {
+            if(nums1[i] <= nums2[j]) {
+                result[index] = nums1[i];
+                index++;
+                i++;
             }
-            if(gap == 1)
-                break;
-            gap = (gap / 2) + (gap % 2);
+            else if(nums2[j] <= nums1[i]){
+                result[index] = nums2[j];
+                index++;
+                j++;
+            }
         }
 
-        for(int i = m; i < m + n; i++)
-            nums1[i] = nums2[i - m]; 
+        while(i < m) {
+            result[index] = nums1[i];
+            index++;
+            i++;
+        }
+        while(j < n) {
+            result[index] = nums2[j];
+            index++;
+            j++;
+        }
+
+        nums1 = result;
     }
 };
