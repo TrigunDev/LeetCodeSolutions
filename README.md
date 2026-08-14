@@ -45,6 +45,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0877-stone-game](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0877-stone-game/) | Medium |
 | [0885-spiral-matrix-iii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0885-spiral-matrix-iii/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1072-flip-columns-for-maximum-number-of-equal-rows/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1140-stone-game-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1140-stone-game-ii/) | Medium |
@@ -531,6 +532,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0502-ipo](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0502-ipo/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0791-custom-sort-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0791-custom-sort-string/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
@@ -569,6 +571,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0088-merge-sorted-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1861-rotating-the-box/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
