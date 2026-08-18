@@ -42,6 +42,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0628-maximum-product-of-three-numbers](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0695-max-area-of-island](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0695-max-area-of-island/) | Medium |
+| [0739-daily-temperatures](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0877-stone-game](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0877-stone-game/) | Medium |
 | [0885-spiral-matrix-iii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0885-spiral-matrix-iii/) | Medium |
@@ -610,6 +611,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0173-binary-search-tree-iterator](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0739-daily-temperatures](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1472-design-browser-history](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1472-design-browser-history/) | Medium |
 | [2751-robot-collisions](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2751-robot-collisions/) | Hard |
@@ -642,6 +644,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0739-daily-temperatures](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
