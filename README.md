@@ -207,6 +207,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0013-roman-to-integer](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0020-valid-parentheses](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0043-multiply-strings](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0049-group-anagrams/) | Medium |
 | [0071-simplify-path](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0071-simplify-path/) | Medium |
@@ -600,6 +601,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0071-simplify-path/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -885,4 +887,8 @@ This repository contains my solutions to various LeetCode problems, written in *
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1510-stone-game-iv/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
