@@ -37,6 +37,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0419-battleships-in-a-board](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0486-predict-the-winner](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0502-ipo](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0502-ipo/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -348,6 +349,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0290-word-pattern](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0290-word-pattern/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0383-ransom-note/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0791-custom-sort-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0791-custom-sort-string/) | Medium |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1072-flip-columns-for-maximum-number-of-equal-rows/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
@@ -606,6 +608,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1472-design-browser-history](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1472-design-browser-history/) | Medium |
@@ -637,6 +640,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Binary Tree
