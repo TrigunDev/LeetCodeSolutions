@@ -61,6 +61,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1331-rank-transform-of-an-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1345-jump-game-iv/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -151,6 +152,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0502-ipo](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0502-ipo/) | Hard |
 | [0861-score-after-flipping-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -359,6 +361,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1331-rank-transform-of-an-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1743-restore-the-array-from-adjacent-pairs/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -441,6 +444,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0861-score-after-flipping-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
