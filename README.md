@@ -508,6 +508,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0278-first-bad-version](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0278-first-bad-version/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -904,4 +905,8 @@ This repository contains my solutions to various LeetCode problems, written in *
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0020-valid-parentheses/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
