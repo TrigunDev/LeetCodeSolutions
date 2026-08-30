@@ -86,6 +86,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2079-watering-plants](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2079-watering-plants/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -163,6 +164,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1927-sum-game](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1927-sum-game/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
