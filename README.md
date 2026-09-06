@@ -229,6 +229,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0071-simplify-path](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0072-edit-distance/) | Medium |
 | [0097-interleaving-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0097-interleaving-string/) | Medium |
+| [0115-distinct-subsequences](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0139-word-break](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0139-word-break/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0290-word-pattern](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0290-word-pattern/) | Easy |
@@ -310,6 +311,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0070-climbing-stairs](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0072-edit-distance/) | Medium |
 | [0097-interleaving-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0097-interleaving-string/) | Medium |
+| [0115-distinct-subsequences](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0139-word-break](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0139-word-break/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
