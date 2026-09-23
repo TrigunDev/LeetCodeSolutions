@@ -72,6 +72,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -363,6 +364,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0219-contains-duplicate-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1871-jump-game-vii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -392,6 +394,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1743-restore-the-array-from-adjacent-pairs/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -437,6 +440,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1140-stone-game-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1314-matrix-block-sum](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1314-matrix-block-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1871-jump-game-vii/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -554,6 +558,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0278-first-bad-version](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0278-first-bad-version/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
