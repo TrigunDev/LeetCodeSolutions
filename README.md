@@ -229,6 +229,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0006-zigzag-conversion](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0013-roman-to-integer](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0043-multiply-strings](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0049-group-anagrams/) | Medium |
 | [0071-simplify-path](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0071-simplify-path/) | Medium |
@@ -317,6 +318,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0062-unique-paths](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0070-climbing-stairs/) | Easy |
@@ -433,6 +435,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0077-combinations](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0077-combinations/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -971,6 +974,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Interactive
