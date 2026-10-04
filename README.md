@@ -164,6 +164,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0134-gas-station](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0134-gas-station/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0502-ipo](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0502-ipo/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -242,6 +243,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0290-word-pattern](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0383-ransom-note/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0791-custom-sort-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0791-custom-sort-string/) | Medium |
 | [0796-rotate-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0796-rotate-string/) | Easy |
@@ -335,6 +337,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0338-counting-bits](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0338-counting-bits/) | Easy |
 | [0396-rotate-function](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0788-rotated-digits](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0877-stone-game/) | Medium |
@@ -682,6 +685,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0173-binary-search-tree-iterator](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -979,6 +983,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0020-valid-parentheses](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Interactive
