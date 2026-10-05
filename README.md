@@ -247,6 +247,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0791-custom-sort-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0791-custom-sort-string/) | Medium |
 | [0796-rotate-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0796-rotate-string/) | Easy |
+| [0856-score-of-parentheses](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -687,6 +688,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0654-maximum-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1472-design-browser-history](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1472-design-browser-history/) | Medium |
@@ -984,6 +986,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0022-generate-parentheses](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Interactive
