@@ -1,19 +1,25 @@
 class Solution {
 public:
     int minAddToMakeValid(string s) {
-        int n = s.length(); 
+        int n = s.size(); 
         int open = 0, close = 0;
         
         for(int i = 0; i < n; i++) {
-            if(s[i] == '(')
+            if(s[i] == '(') {
                 open++;
+            }    
             else {
-                if(open > 0)
+                if(open > 0) {
                     open--;
-                else
+                }    
+                else {
                     close++;
+                }    
             }
         }
-        return open + close;
+
+        int result = open + close;
+
+        return result;
     }
 };
