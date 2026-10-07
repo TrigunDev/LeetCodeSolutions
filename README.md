@@ -242,6 +242,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0139-word-break](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0139-word-break/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0290-word-pattern](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0290-word-pattern/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0383-ransom-note](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0383-ransom-note/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -445,6 +446,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0077-combinations](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0077-combinations/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0797-all-paths-from-source-to-target](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -801,6 +803,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0133-clone-graph](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0133-clone-graph/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0695-max-area-of-island/) | Medium |
