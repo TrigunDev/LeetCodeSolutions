@@ -97,6 +97,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [2196-create-binary-tree-from-descriptions](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -179,6 +180,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -581,6 +583,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -598,6 +601,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0502-ipo](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/0502-ipo/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -627,6 +631,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2784-check-if-array-is-good/) | Easy |
