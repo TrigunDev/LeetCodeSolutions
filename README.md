@@ -87,6 +87,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [1992-find-all-groups-of-farmland](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1992-find-all-groups-of-farmland/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2079-watering-plants](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2079-watering-plants/) | Medium |
@@ -219,6 +220,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1861-rotating-the-box](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1861-rotating-the-box/) | Medium |
+| [1992-find-all-groups-of-farmland](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1992-find-all-groups-of-farmland/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2906-construct-product-matrix/) | Medium |
@@ -806,6 +808,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1743-restore-the-array-from-adjacent-pairs/) | Medium |
+| [1992-find-all-groups-of-farmland](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1992-find-all-groups-of-farmland/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -828,6 +831,7 @@ This repository contains my solutions to various LeetCode problems, written in *
 | [1302-deepest-leaves-sum](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1345-jump-game-iv](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1345-jump-game-iv/) | Hard |
+| [1992-find-all-groups-of-farmland](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/1992-find-all-groups-of-farmland/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Trigun-123/LeetCodeSolutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
